@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8af62b3581a2074eb92e3dd482aabf8, type: 3}
+  m_Name: CensusRegion 0
+  m_EditorClassIdentifier: 
+  Genders:
+  - 0.5
+  - 0.5
+  GendersTotal: 0
+  Ages:
+  - 0.44999998807907104
+  - 0.4000000059604645
+  - 0.10000000149011612
+  - 0.05000000074505806
+  - 0
+  - 0
+  AgesTotal: 0
+  Races:
+  - 0.4000000059604645
+  - 0.30000001192092896
+  - 0.20000000298023224
+  - 0.10000000149011612
+  - 0
+  - 0
+  RacesTotal: 0
+  Jobs:
+  - 0.5
+  - 0.25
+  - 0.25
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  JobsTotal: 0

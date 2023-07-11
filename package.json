@@ -1,0 +1,23 @@
+{
+  "name": "com.postegames.denizens",
+  "version": "1.0.0",
+  "displayName": "Denizens",
+  "description": "An extension for Procedural Population Database specific to a fantasy genre.",
+  "unity": "2022.2",
+  "keywords": [
+    "denizen",
+    "database",
+    "population",
+    "query",
+    "procedural"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http://postexistence.com/"
+  },
+  "dependencies": {
+	"com.unity.collections": "",
+	"com.postegames.proceduralpopulationdatabase": ""
+  }
+}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8cba4b4de35c604bbc5eecd75447661, type: 3}
+  m_Name: TestKingdom1
+  m_EditorClassIdentifier: 
+  TotalPopulation: 4194304
+  Regions:
+  - Name: Region 01
+    PercentageOfTotalPopulation: 0.4
+    Census: {fileID: 11400000, guid: 191caecd5b61c0940b2495c446571b4e, type: 2}
+    MunicipalCounts:
+      Metros: 1
+      Capitals: 3
+      Cities: 10
+      Towns: 25
+      Villages: 30
+      Farms: 50
+      Manors: 10
+      Houses: 40
+    MunicipalPopulations:
+      Metropolis: 15000
+      Captial: 10000
+      City: 5000
+      Town: 1000
+      Village: 130
+      Farm: 50
+      Manor: 100
+      House: 5
+  - Name: Region 02
+    PercentageOfTotalPopulation: 0.6
+    Census: {fileID: 11400000, guid: d046cd9dccba7984b83d7e5661a56159, type: 2}
+    MunicipalCounts:
+      Metros: 1
+      Capitals: 3
+      Cities: 10
+      Towns: 25
+      Villages: 30
+      Farms: 50
+      Manors: 10
+      Houses: 40
+    MunicipalPopulations:
+      Metropolis: 15000
+      Captial: 10000
+      City: 5000
+      Town: 1000
+      Village: 130
+      Farm: 50
+      Manor: 100
+      House: 5
